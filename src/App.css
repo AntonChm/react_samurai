@@ -13,20 +13,3 @@
 
 
 }
-
-.header img {max-width: 20px;}
-
-.header {
-  grid-area: h;
-  background-color: greenyellow;
-}
-
-.nav {
-  grid-area: n;
-  background-color: blueviolet;
-}
-
-.content {
-  grid-area: c;
-  background-color: blue;
-}
